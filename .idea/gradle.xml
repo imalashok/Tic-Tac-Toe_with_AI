@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/10 days before" />
+            <option value="$PROJECT_DIR$/Problems/2 weeks after" />
+            <option value="$PROJECT_DIR$/Problems/30 years before and after" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Problems/Add days and subtract hours" />
+            <option value="$PROJECT_DIR$/Problems/Adding N minutes" />
+            <option value="$PROJECT_DIR$/Problems/Books as strings" />
+            <option value="$PROJECT_DIR$/Problems/Check IP address" />
+            <option value="$PROJECT_DIR$/Problems/Check the clock time" />
+            <option value="$PROJECT_DIR$/Problems/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Problems/Convert persons and patients to string" />
+            <option value="$PROJECT_DIR$/Problems/Convert vehicles and cars to string" />
+            <option value="$PROJECT_DIR$/Problems/Don't be late again" />
+            <option value="$PROJECT_DIR$/Problems/Find all mondays" />
+            <option value="$PROJECT_DIR$/Problems/Find the latest date-time" />
+            <option value="$PROJECT_DIR$/Problems/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Problems/How many date-time pairs match the range" />
+            <option value="$PROJECT_DIR$/Problems/Illegal identifiers" />
+            <option value="$PROJECT_DIR$/Problems/Is the date between the two other dates" />
+            <option value="$PROJECT_DIR$/Problems/Merging date-time instances" />
+            <option value="$PROJECT_DIR$/Problems/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Problems/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Problems/Safe password" />
+            <option value="$PROJECT_DIR$/Problems/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Problems/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Problems/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Problems/Subtracting hours and adding minutes" />
+            <option value="$PROJECT_DIR$/Problems/The New Year is coming (or not)" />
+            <option value="$PROJECT_DIR$/Problems/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/Problems/The first day of a month or not" />
+            <option value="$PROJECT_DIR$/Problems/The intersection of time ranges" />
+            <option value="$PROJECT_DIR$/Problems/The last day of a month" />
+            <option value="$PROJECT_DIR$/Problems/The n-th day from the end of a month" />
+            <option value="$PROJECT_DIR$/Problems/The passed hours since the beginning of year" />
+            <option value="$PROJECT_DIR$/Problems/Time as a string" />
+            <option value="$PROJECT_DIR$/Problems/Users as strings" />
+            <option value="$PROJECT_DIR$/Problems/Vehicle registration number" />
+            <option value="$PROJECT_DIR$/Problems/Whole hours between two date-time pairs" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

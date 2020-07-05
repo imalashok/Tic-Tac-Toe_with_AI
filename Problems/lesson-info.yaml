@@ -1,0 +1,40 @@
+content:
+- Convert numbers to days
+- The first and the last day of a month
+- Find all mondays
+- 10 days before
+- 2 weeks after
+- Getting information on a day
+- 30 years before and after
+- Print dates of a year with an offset
+- The first day of a month or not
+- The last day of a month
+- The n-th day from the end of a month
+- Seconds since start of a day
+- Return time without seconds
+- Seconds between two time points
+- Some hours and minutes ago
+- Add 11 hours and print the date
+- Merging date-time instances
+- The passed hours since the beginning of year
+- Adding N minutes
+- Add days and subtract hours
+- Subtracting hours and adding minutes
+- Whole hours between two date-time pairs
+- Is the date between the two other dates
+- Don't be late again
+- The intersection of time ranges
+- Find the latest date-time
+- The New Year is coming (or not)
+- How many date-time pairs match the range
+- Users as strings
+- Time as a string
+- Books as strings
+- Account
+- Convert persons and patients to string
+- Convert vehicles and cars to string
+- Vehicle registration number
+- Check the clock time
+- Illegal identifiers
+- Check IP address
+- Safe password
